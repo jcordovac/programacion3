@@ -86,7 +86,7 @@ namespace LiquidacionDeSueldo
                              +"Apellido     = ............." + apellido + "\n"
                              +"RUT          = ............." + rut     + "\n"
                              +"Fecha        = ............." + meses+"/"+años + "\n"
-                             +"Sueldo Total = .........." + sueldoMes 
+                             +"Sueldo Total = .........." + sueldoMes   
                              );
             Console.WriteLine("                 Descuentos y Haberes              ");
         }
