@@ -88,7 +88,7 @@ namespace LiquidacionDeSueldo
                              +"Fecha        = ............." + meses+"/"+años + "\n"
                              +"Sueldo Total = .........." + sueldoMes 
                              );
-            Console.WriteLine("                 Descuentos y Haberes             ");
+            Console.WriteLine("                 Descuentos y Haberes              ");
         }
        
       
